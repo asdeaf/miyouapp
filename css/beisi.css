@@ -1,0 +1,20 @@
+*{
+	margin: 0;      /* body=8px */
+	padding: 0;        /* 列表标签 */
+	list-style: none;     /* 列表标签 */
+	text-decoration: none;      /* a标签的下划线 */
+	font-style: normal;
+	font-weight: normal;
+
+	-webkit-user-select: none;
+	user-select: none;
+	box-sizing: border-box;
+
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	tap-highlight-color: rgba(0, 0, 0, 0);     /* 调整点击透明 */
+}
+img{
+	width: 100%;
+	height: 100%;
+	display: block;
+}
